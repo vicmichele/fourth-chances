@@ -20,6 +20,8 @@ interests:
 - Literature and Film
 - Texts and Technology
 - Identity Politics
+- Poetry
+- Flash Fiction
 
 education:
   courses:

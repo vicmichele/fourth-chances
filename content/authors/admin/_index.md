@@ -6,7 +6,7 @@ title: Víc Michélè
 superuser: true
 
 # Role/position
-role: Professor of English, Composition, and Film
+role: Professor of English, Composition, Film, and Creative Writing
 
 # Organizations/Affiliations
 organizations:

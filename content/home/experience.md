@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Valencia College"
   company_url = "www.valenciacollege.edu"
   location = "Orlando, Florida"
-  date_start = "2017-01-01"
+  date_start = "2008-01-01"
   date_end = ""
   description = """
   Tenured Professor of Literature, Composition, Film and Creative Writing and Director of Creative Writing 

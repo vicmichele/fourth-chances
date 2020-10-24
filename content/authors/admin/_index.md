@@ -43,7 +43,7 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MsVicMichel
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Víc Michélè is a professor of Literature, Composition, and Film at Valencia College. Their research interests include feminisms, films and media, technologies, postcolonial theories, intersectional identity politics, and internet studies for the purposes of scholarship and teaching.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Víc Michélè writes flash non-fiction and poetry. They are coordinator for the Creative Writing Division and organizer and host of the FLAC, Kerouac House, and East Campus Communications Department Visiting Author Series. They also organize and host Music and Ink (Un)Cut Open Mic Night. 

@@ -6,22 +6,22 @@ title: Víc Michélè
 superuser: true
 
 # Role/position
-role: Professor of English, Composition, Film, and Creative Writing
+role: professor of English, composition, film, and creative writing
 
 # Organizations/Affiliations
 organizations:
-- name: Valencia College
+- name: valencia college
   url: "www.valenciacollege.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor; Surveyor and Creator of Words; Mother; Rotator of Chords & Beats, Futbols, Music, Weights, Pedals, & Feet; Film Critic, & Multi-Media Compilationist.
+bio: professor; surveyor and creator of qords; mother; rotator of chords & beats, futbols, music, weights, pedals, & feet; film critic, & multi-media compilationist.
 
 interests:
-- Literature and Film
-- Texts and Technology
-- Identity Politics
-- Poetry
-- Flash Fiction
+- literature and film
+- texts and technology
+- identity politics
+- poetry
+- flash fiction
 
 education:
   courses:

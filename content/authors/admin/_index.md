@@ -6,12 +6,12 @@ title: Víc Michélè
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of English, Composition, and Film
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Valencia College
+  url: "www.valenciacollege.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

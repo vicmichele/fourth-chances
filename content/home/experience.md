@@ -25,7 +25,9 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:Tenured Professor of Literature, Composition, Film and Creative Writing
+  Tenured Professor of Literature, Composition, Film and Creative Writing and Director of Creative Writing 
+
+  Courses Taught:
   
   * Introduction to Film
   * Introduction to Literature

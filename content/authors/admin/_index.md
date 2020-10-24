@@ -14,24 +14,24 @@ organizations:
   url: "www.valenciacollege.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Professor; Surveyor and Creator of Words; Mother; Rotator of Chords & Beats, Futbols, Music, Weights, Pedals, & Feet; Film Critic, & Multi-Media Compilationist.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Literature and Film
+- Texts and Technology
+- Identity Politics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Texts and Technology
+    institution: University of Central Florida
+    year: 2022
+  - course: MA in English Literature
+    institution: University of Central Florida
     year: 2008
+  - course: BA in Englilsh Literature
+    institution: University of Central Florida
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

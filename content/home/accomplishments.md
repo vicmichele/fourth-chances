@@ -57,5 +57,5 @@ date_format = "Jan 2006"
   date_start = "2020"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+
 +++

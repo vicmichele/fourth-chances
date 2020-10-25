@@ -44,6 +44,8 @@ date_format = "Jan 2006"
   title = "Destinations 2019"
   url = ""
   certificate_url = ""
+  date_start = "2019"
+  date_end = ""
   description = ""
 
 [[item]]

@@ -45,6 +45,14 @@ date_format = "Jan 2006"
   location = "Orlando, Florida"
   date_start = "2004-01-01"
   date_end = "2006-10-01"
-  description = """Writing Consultation Assistant Director for Law Students."""
+  description = """Writing Consultation Assistant Director for Law Students.
+  
+  WorkshopsTaught:
+  
+  * Basic Organization for Law
+  * Grammar and Sentence Structure 
+  * Standard Academic English
+  * Formating and Argument Organization
+  """
 
 +++

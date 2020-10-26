@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Valencia College"
   organization_url = "https://valenciacollege.edu/faculty/development/programs/"
-  title = "Destinations 2019"
+  title = "Destinations 2019: Diversity Track"
   url = ""
   certificate_url = ""
   date_start = "2019-07-01"

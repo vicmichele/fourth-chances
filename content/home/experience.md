@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Tenured Professor of Literature, Composition, Film and Creative Writing and Director of Creative Writing 
 
-  Courses Taught:
+  courses taught:
   
   * Introduction to Film
   * Introduction to Literature
@@ -47,12 +47,13 @@ date_format = "Jan 2006"
   date_end = "2006-10-01"
   description = """Writing Consultation Assistant Director for Law Students.
   
-  WorkshopsTaught:
+  workshops taught:
   
   * Basic Organization for Law
   * Grammar and Sentence Structure 
   * Standard Academic English
   * Formating and Argument Organization
+  * Study Skills and Test Taking
   """
 
 +++

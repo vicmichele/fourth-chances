@@ -1,2 +1,3 @@
-font-family: 'Beth Ellen', cursive;
-font-family: 'IM Fell DW Pica SC', serif;
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&family=IM+Fell+DW+Pica+SC&display=swap');
+</style>

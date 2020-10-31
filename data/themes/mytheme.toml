@@ -30,6 +30,6 @@ menu_title = "#247, 249, 249"
 
 # Home sections
 
-home_section_odd = "hsla(204, 8%, 86%, 1)"
+home_section_odd = "hsla(204, 3%, 40%, 1)"
 
-home_section_even = "hsla(210, 29%, 29%, 1)"
+home_section_even = "hsla(210, 9%, 55%, 1)"

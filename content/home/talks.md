@@ -7,12 +7,17 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "recent & upcoming talks"
+title = "talks"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
+  Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
+
+“‘Postcolonial’ Colonialism: Popular Media, White Supremacy, & American Imperialism.” Interdisciplines Academic Conference, Florida State University, April 2006. 
+
+“‘Postcolonial’ Colonialism: Teaching Diverse Voices in an Era of ‘Equality.’” College English Association Conference, St. Petersburg Florida, April 2011. 
+
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5

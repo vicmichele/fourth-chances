@@ -1,7 +1,6 @@
 ---
 title: talks
 
----
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Plundered Hearts: The Mostly Forgotten History of Romance Games"

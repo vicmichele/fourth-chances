@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "‘Postcolonial’ Colonialism: Popular Media, White Supremacy, & American Imperialism."
-event: Interdisciplines Academic Conference
+title: "‘Postcolonial’ Colonialism: Teaching Diverse Voices in an Era of ‘Equality'"
+event: College English Association
 event_url:
-location: Florida State University
+location: St Petersburg, Fla.
 address:
   street:
   city:
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2006-04-08T09:30:04-09:50
+date: 2011-04-08T11:30:04-011:50
 # date_end: 2020-10-08T14:43:04-04:00
 all_day: false
 

@@ -1,6 +1,24 @@
 ---
 title: talks
 
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Plundered Hearts: The Mostly Forgotten History of Romance Games"
+event: Society for Cinema and Media Studies
+event_url:
+location: Seattle
+address:
+street:
+city:
+region:
+postcode:
+country:
+summary:
+abstract:
+
+
+
 # View.
 #   1 = List
 #   2 = Compact

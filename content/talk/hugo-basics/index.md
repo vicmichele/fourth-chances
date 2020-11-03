@@ -20,6 +20,26 @@ date: 2006-04-08T09:30:04-09:50
 # date_end: 2020-10-08T14:43:04-04:00
 all_day: false
 
+
+title: "‘Postcolonial’ Colonialism: Popular Media, White Supremacy, & American Imperialism."
+event: Interdisciplines Academic Conference
+event_url:
+location: Florida State University
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
+summary:
+abstract:
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2006-04-08T09:30:04-09:50
+# date_end: 2020-10-08T14:43:04-04:00
+all_day: false
+
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-10-08T14:43:04-04:00
 
